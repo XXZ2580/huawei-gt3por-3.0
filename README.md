@@ -1,2 +1,2 @@
-# odn_b19_package_3_0_0_97
-odn_b19_package_3_0_0_97
+# HUAWEI GT 3 PACKAGE
+HUAWEI GT 3 PACKAGE
